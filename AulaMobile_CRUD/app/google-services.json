@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924106998840",
+    "project_id": "aulamobile-crud",
+    "storage_bucket": "aulamobile-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924106998840:android:0b8f6e639f044dcea392cd",
+        "android_client_info": {
+          "package_name": "com.example.aulamobile_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Cov3eb-Xt0qP9X6mqk9rxwaUETlbieo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
